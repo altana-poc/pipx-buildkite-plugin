@@ -1,4 +1,4 @@
-# Pipx Buildkite Plugin
+# pipx Buildkite Plugin
 
 A [Buildkite plugin](https://buildkite.com/docs/agent/v3/plugins) that ensures **pipx** and **Python 3** are installed before running a build step.
 
