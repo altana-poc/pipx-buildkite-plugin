@@ -1,0 +1,6 @@
+name: PIPX
+description: Ensures pipx is installed and available in Buildkite jobs
+author: tbd
+requirements:
+  - "bash"
+configuration: {}
